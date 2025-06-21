@@ -40,8 +40,7 @@ A versatile Python-based command-line tool that combines a multi-threaded TCP po
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/
-    cd network_tool.py
+    git clone [https://github.com/](https://github.com/sagili-manoj/Concurrent-TCP-Port-Scanner-Packet-Sniffer)
     ```
 2.  **Install Scapy (optional, for sniffer):**
     ```bash
